@@ -1,0 +1,28 @@
+1.什么是Python
+Python是一门优雅而且健壮的编程语言
+1.2起源
+Guido van Rossum于1989年底始创了Python
+1.3特点
+高级、面向对象、可升级、可扩展、可移植性（Python是用C写的）、易学、易读、易维护、健壮性、高效的快速原型开发工具、内存管理器、解释性和（字节）编译性
+1.4下载和安装Python
+1.5运行Python
+1.5.1命令行上的交互式解释器
+Unix衍生系统、Windoes/DOS环境
+1.5.2从命令行启动脚本
+python
+#!/usr/local/bin/python
+#!/usr/bin/env python
+#!/bin/env python
+1.5.3集成开发环境
+集成开发环境不仅仅是图形接口，通常会带有源代码编辑器，追踪和排错工具
+1.5.4其它的集成开发环境和执行环境
+开源个人推荐Eclipse和Pycharm
+1.6Python文档
+1.7比较Python
+Perl:字符串模式匹配能力，实际上是一种用于过滤、识别和抽取字符串文本的语言，也一直是开发Web服务器端CGI(common gateway interface,通用网关接口)网络程序的最流行语言
+Java:Jython是一个完全用Java开发的Python解释器，可以在只有Java虚拟机的环境中运行Python程序。
+Ruby:完全面向对象，事实上可以看作是面向对象的Perl
+Tcl：最易于使用的脚本语言之一，总是和他的图形工具包Tk一起工作。Python有类、模块、包的机制，大程序更加得心应手
+Javascript:基于原型系统，Python则遵循传统的面向对象
+1.8其它实现
+标准版本的Python使用C来编译的，又被称为Cpython。
